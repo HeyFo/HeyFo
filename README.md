@@ -46,3 +46,17 @@
 According to a survey conducted by Asia Pacific Health Priority 2023, 80% of Indonesians recognize the importance of living a healthy lifestyle. The survey also revealed that most have changed their health priorities since the COVID-19 pandemic. 
 The increasing awareness of the importance of healthy food is not accompanied by the ease for individuals to make healthy food choices that suit their nutritional needs. This is what underlies the presence of HeyFo, an innovative application that utilizes food ingredient scanning technology to provide healthy food recommendations according to their content. With HeyFo, users can easily find healthy food alternatives based on the ingredients available in their homes, thus helping them maintain a healthy lifestyle without the hassle of manually searching for nutritional information.
 
+
+## Documentation
+
+### Mobile Development Documentation
+
+<a href="https://github.com/HeyFo/Mobile-Development">https://github.com/HeyFo/Mobile-Development</a>
+
+### Cloud Computing Documentation
+<a href="https://github.com/HeyFo/Cloud-Computing">https://github.com/HeyFo/Cloud-Computing</a>
+
+### Machine Learning Documentation
+<a href="https://github.com/HeyFo/machine-learning">https://github.com/HeyFo/machine-learning</a>
+
+
