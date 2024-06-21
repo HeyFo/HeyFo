@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/HeyFo/HeyFo-App/assets/99463407/297b9366-0059-4a09-a8f1-d6a7bfd98188" alt="Logo heyfo oke" width="200">
+  <img src="https://cdn.discordapp.com/attachments/1222065825612169226/1253612337269833779/Logo_heyfo_oke.jpg?ex=66767cf8&is=66752b78&hm=2ea26fdd5970c419af4e0569ca92cc99160769276d515887670a446d31d3007b&" alt="Logo heyfo oke" width="200">
 </div>
 
 <div align="center">
